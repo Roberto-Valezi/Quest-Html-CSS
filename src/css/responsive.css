@@ -1,0 +1,52 @@
+@media (max-width:768px){
+    
+    .container{
+        margin: 0 auto;
+    }
+
+    .header img{
+        width: 200px; 
+    }
+
+    .hero { 
+        display: flex;
+        flex-wrap: wrap;
+        margin: 5px;
+    }
+
+    .hero .ilustration img{
+        width: 70%;
+    } 
+
+    .hero .ilustration{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin:10px;
+        padding: 10px;
+
+    }
+    .hero .info{
+        margin: 10px;
+        
+    }
+
+    .hero .info h1{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .btn{
+        margin: 5px;
+    }
+}
+
+@media (max-width:375px){
+   
+    .hero .info h1{
+        font-size: 27px;
+    }
+
+}
+    
+
