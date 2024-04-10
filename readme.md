@@ -9,7 +9,7 @@
 
 ## Interações
 Os Botões Register e redes sociais são clicáveis e mudam a cor de forma suave.
-<img src="./src/images/tela.gif">
+[<img src="./src/images/tela.gif">]
 
 # Responsividades
 
