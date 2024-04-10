@@ -1,6 +1,6 @@
 # Huddle landing page with a single introductory section
 ### Este projeto é baseado no [Frontend Mentor]( https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0), um desafio e Quest do curso DevQuest, desenvolvido pelo Dev em Dobro.
-### O Projeto foi realizado em tela de 1440px.
+### O Projeto foi realizado para tela de 1440px.
 <img src="./src/images/laptop-1440x900.png">
 
 ## Tecnologias:
